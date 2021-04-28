@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Рабочий стол\Rekursiya HW\Rekursiya HW1\Rekursiya HW1\bin\Debug\net5.0\Rekursiya HW1.exe
+C:\Users\User\OneDrive\Рабочий стол\Rekursiya HW\Rekursiya HW1\Rekursiya HW1\bin\Debug\net5.0\Rekursiya HW1.deps.json
+C:\Users\User\OneDrive\Рабочий стол\Rekursiya HW\Rekursiya HW1\Rekursiya HW1\bin\Debug\net5.0\Rekursiya HW1.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\Rekursiya HW\Rekursiya HW1\Rekursiya HW1\bin\Debug\net5.0\Rekursiya HW1.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Рабочий стол\Rekursiya HW\Rekursiya HW1\Rekursiya HW1\bin\Debug\net5.0\Rekursiya HW1.dll
+C:\Users\User\OneDrive\Рабочий стол\Rekursiya HW\Rekursiya HW1\Rekursiya HW1\bin\Debug\net5.0\ref\Rekursiya HW1.dll
+C:\Users\User\OneDrive\Рабочий стол\Rekursiya HW\Rekursiya HW1\Rekursiya HW1\bin\Debug\net5.0\Rekursiya HW1.pdb
+C:\Users\User\OneDrive\Рабочий стол\Rekursiya HW\Rekursiya HW1\Rekursiya HW1\obj\Debug\net5.0\Rekursiya HW1.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\Rekursiya HW\Rekursiya HW1\Rekursiya HW1\obj\Debug\net5.0\Rekursiya HW1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\Rekursiya HW\Rekursiya HW1\Rekursiya HW1\obj\Debug\net5.0\Rekursiya HW1.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Rekursiya HW\Rekursiya HW1\Rekursiya HW1\obj\Debug\net5.0\Rekursiya HW1.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\Rekursiya HW\Rekursiya HW1\Rekursiya HW1\obj\Debug\net5.0\Rekursiya HW1.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Rekursiya HW\Rekursiya HW1\Rekursiya HW1\obj\Debug\net5.0\Rekursiya HW1.dll
+C:\Users\User\OneDrive\Рабочий стол\Rekursiya HW\Rekursiya HW1\Rekursiya HW1\obj\Debug\net5.0\ref\Rekursiya HW1.dll
+C:\Users\User\OneDrive\Рабочий стол\Rekursiya HW\Rekursiya HW1\Rekursiya HW1\obj\Debug\net5.0\Rekursiya HW1.pdb
+C:\Users\User\OneDrive\Рабочий стол\Rekursiya HW\Rekursiya HW1\Rekursiya HW1\obj\Debug\net5.0\Rekursiya HW1.genruntimeconfig.cache
